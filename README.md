@@ -48,5 +48,6 @@ The program displays feedback on whether the password is Weak, Medium, Strong, o
 Suggestions for improvement (e.g., "Add a special character") are provided.
 
 
-Conclusion
+Conclusion:
+
 This Password Strength Checker provides an interactive way for users to assess their passwords and improve security. The system evaluates passwords based on critical security parameters and offers real-time feedback. By following the suggestions provided, users can create stronger passwords, reducing the risk of cyber threats. Implementing such tools in daily digital activities enhances data protection and overall cybersecurity awareness.
