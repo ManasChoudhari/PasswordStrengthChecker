@@ -1,10 +1,12 @@
 # PasswordStrengthChecker
 
 Introduction:
+
 In the digital age, security threats such as hacking, phishing, and brute-force attacks are increasing. One of the primary defenses against these threats is a strong password. Many users tend to choose weak passwords due to convenience, making their accounts vulnerable. This project aims to develop a GUI-based Password Strength Checker that evaluates a password’s security based on various factors, such as length, character diversity, and unpredictability. The tool provides real-time feedback, helping users create stronger passwords to enhance security.
 
 
-Problem Statement
+Problem Statement:
+
 Many people use weak passwords that are easy to guess, making their accounts susceptible to cyberattacks. Traditional methods of password selection do not always guide users in creating secure passwords. There is a need for an interactive tool that evaluates password strength and provides constructive feedback to users. The Password Strength Checker will help users assess their passwords and encourage the use of stronger, more secure credentials.
 
 
